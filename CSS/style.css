@@ -516,6 +516,10 @@ form .submit {
     padding: 5px;
 }
 
+.footer .services ul li a:hover {
+    color: #F15A23;
+}
+
 .footer .icons {
     display: -webkit-box;
     display: -ms-flexbox;
